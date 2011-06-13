@@ -1,0 +1,9 @@
+h1. DataMapper BCryptHash Example
+
+A simple example of using DataMapper's "BCryptHash
+type":http://datamapper.org/docs/dm_more/types to store salted, hashed
+passwords.
+
+h2. Dependencies
+
+Tested with DataMapper 1.1.0 on ruby 1.8.7
