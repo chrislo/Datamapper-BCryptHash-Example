@@ -1,8 +1,6 @@
 h1. DataMapper BCryptHash Example
 
-A simple example of using DataMapper's "BCryptHash
-type":http://datamapper.org/docs/dm_more/types to store salted, hashed
-passwords.
+A simple example of using DataMapper's "BCryptHash type":http://datamapper.org/docs/dm_more/types to store salted, hashed passwords.
 
 h2. Dependencies
 
